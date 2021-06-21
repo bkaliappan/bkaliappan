@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bkaliappan
+- 👋 Hi, I’m Balachandar Kaliappan.
 - 👀 I’m interested in Consumer Psychology, Consumer Analytics and Process tracing. 
 - 🌱 I’m currently learning Python.
 
